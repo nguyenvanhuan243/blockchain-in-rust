@@ -1,5 +1,4 @@
 # Awesome Blockchain Rust
-![Uploading image.png…]()
 
 *Useful components for building blockchains in Rust. include: cryptography, distributed, p2p, consensus, etc*
 
